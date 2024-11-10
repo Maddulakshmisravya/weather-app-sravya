@@ -1,0 +1,1 @@
+This is a simple Currency Converter application built using HTML, CSS, and JavaScript. It allows users to select two currencies and converts an entered amount from one currency to another based on the exchage rates. It Includes the swap feature which swaps the selected Currencies. 
